@@ -4,7 +4,9 @@
 
 ## Welcome to my GitHub profile!
 
-I'm a student at Harvard University majoring in Computer Science, and on track to complete minors in Physics and Spanish too. Here I'll share some of my CS projects :)
+I'm a student at Harvard University majoring in Computer Science, and on track to complete minors in Physics and Spanish too. I'm currently working as a Software Engineer Intern at CS50's Research & Development Team, where we are working on numerous projects to enhance student's learning experience in Computer Science (and in other fields), notably by working on AI-assisted learning tools. You can see some of my work in action at [cs50.ai](https://cs50.ai/)! 
+
+Below you'll find some of my projects, including a mix of homework assignements I enjoyed, final projects, teaching materials that I created for my teaching positions and other projects I've taken on for fun :)
 
 ## Junior Year
 -> <b>Chat application</b>: I built a chat application using gRPC and sockets for a project in CS262: Distributed Systems.
