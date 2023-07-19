@@ -4,12 +4,14 @@
 
 ## Welcome to my GitHub profile!
 
-I'm a student at Harvard University majoring in Computer Science, and on track to complete minors in Physics and Spanish too. I'm currently working as a Software Engineer Intern at CS50's Research & Development Team, where we are working on numerous projects to enhance student's learning experience in Computer Science (and in other fields), notably by working on AI-assisted learning tools. You can see some of my work in action at [cs50.ai](https://cs50.ai/)! 
+I'm a student at Harvard University majoring in Computer Science, and on track to complete minors in Physics and Spanish too. I'm currently working as a Software Engineer Intern at CS50's Research & Development Team, where we are working on numerous projects to enhance student's learning experience in Computer Science (and in other fields), notably by working on AI-assisted learning tools. You can see some of my work in action at [cs50.ai](https://cs50.ai/) and in the [CS50 Duck Debugger VSCode extension](https://marketplace.visualstudio.com/items?itemName=CS50.ddb50)! 
 
 Below you'll find some of my projects, including a mix of homework assignements I enjoyed, final projects, teaching materials that I created for my teaching positions and other projects I've taken on for fun :)
 
 ## Junior Year
--> <b>Chat application</b>: I built a chat application using gRPC and sockets for a project in CS262: Distributed Systems.
+-> <b>[Distributed File System](https://github.com/ACHolmes/distributed-file-system)</b>: I built a distributed file system (in the spirit of OneDrive, without the nice (well, better) UI) in python using gRPC and watchdog for a project in CS262: Distributed Systems.
+
+-> <b>[Liquid Democracy and Perceptional Competence]([https://github.com/ACHolmes/distributed-file-system](https://github.com/ACHolmes/perceptional-competence))</b>: Myself, Patrick Thornton and Lauren Cooke (all Harvard '24) wrote this research paper on our proposal for a new model based around conventional Liquid Democracy models, introducing the idea of meta-competency and an evaluation mechanism for voters to perceive others' competence (rather than the conventional oracle call knowledge).
 
 -> <b>[CS124 Algorithms & Data Structures teaching materials](https://github.com/ACHolmes/CS124-TF-S23)</b>: I am a Teaching Fellow for CS124 and this repo stores some of the materials I made for the class.
 
