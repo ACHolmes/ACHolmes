@@ -2,4 +2,4 @@
   <u> Andrew Holmes </u>
 </h1>
 
-SHV Codepoint Fellow. Current SWE at Sigma Computing. Soon to be SWE at Observe.
+Software Engineer @ Sigma. Previously SHV Codepoint Fellow @ Sigma & Observe (acquired by Snowflake) 
